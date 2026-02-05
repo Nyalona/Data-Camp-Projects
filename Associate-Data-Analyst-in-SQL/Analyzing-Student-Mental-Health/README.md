@@ -14,7 +14,7 @@ This project examines whether staying in a foreign country affects the mental he
 - **Analytical Thinking:** Interpreting how environmental factors like "Length of Stay" impact psychological well-being.
 
 ## 📂 Files
-- `mental_health_query.sql`: The SQL script containing the final analysis.
+- `notebook.ipynb`: The SQL script containing the final analysis.
 - `students.csv`: The raw dataset used for the project.
 
 ---
